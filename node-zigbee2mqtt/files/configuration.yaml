@@ -1,4 +1,5 @@
 # Home Assistant integration (MQTT discovery)
+# test
 homeassistant: false
 
 # allow new devices to join
